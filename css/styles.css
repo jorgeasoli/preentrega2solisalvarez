@@ -55,6 +55,9 @@ header .logo img {
 .nav-menu-link:hover {
   color: white;
 }
+.nav-toggle i {
+  color: black;
+}
 .nav-toggle {
   color: black;
   background: none;
